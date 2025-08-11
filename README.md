@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTN5eWd5a2N5NnYyNnM3YmV0a2w3N2E5c2pvdWhlZG56ZHV4ZjFlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kkG4ihRARGRJ6I8j04/giphy.gif]" width="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTN5eWd5a2N5NnYyNnM3YmV0a2w3N2E5c2pvdWhlZG56ZHV4ZjFlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kkG4ihRARGRJ6I8j04/giphy.gif" width="500">
 </p>
 
-why this not work ?
 <h1 align="center">Hi 👋, I'm Ali ALshehri</h1>
 <h3 align="center">Full Stack Developer</h3>
 
